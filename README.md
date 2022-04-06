@@ -1,6 +1,4 @@
-# scaling-octo-system
 <!DOCTYPE html>
-<html>
     <head>
         <title>Test Page</title>
     </head>
