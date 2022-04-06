@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-    <head>
-        <title>Test Page</title>
-    </head>
 <body>
 <h1>Hey. I'm a big heading.</h1>
 <p>Hey. I'm a <b>great </b>paragraph</p>
